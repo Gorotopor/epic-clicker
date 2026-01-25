@@ -16,6 +16,8 @@ Made in Python 3.x.
 
 Uses a tkinter-made GUI, images included in the repository needed for proper running, includes a save file system, creating them in the root directory of the game. 
 
+Due to limitations of my own willpower and brain only on Windows operating systems will a custom taskbar icon be created.
+
 Due to the save file system relying on creating and deleting text files, your antivirus or built in system protection may have a problem with opening the files.
 The code only creates, reads from and deletes a file "ecstats.txt" in the root project directory, so you should NOT place any important files in there under the name "ecstats.txt".
 It is your choice whether you run the game or not.
