@@ -7,7 +7,7 @@ This is not affilated or endorsed by creators of the original game.
 
 
 HOW TO RUN:
-Download the repository, unzip it. If it results in multiple files loose, insert them into a folder. Run the .exe file found in the 'app' folder.
+Download the repository, keep the contents in the same folder. Run the .exe file found in the 'app' folder.
 
 The final result of my work is a working small game. It is not perfect, the code is slightly messy and game mechanics are not really balanced (in 5 minutes it is easy to reach a state of the game, where progress is exponentially slower)
 However, it is at a point where I'm satisfied with the result.
@@ -16,9 +16,9 @@ Made in Python 3.x.
 
 Uses a tkinter-made GUI, images included in the repository needed for proper running, includes a save file system, creating them in the root directory of the game. 
 
-Due to limitations of my own willpower and brain only on Windows operating systems will a custom taskbar icon be created.
+Due to limitations of my own willpower and brain, only on Windows operating systems will a custom taskbar icon be created.
 
-Due to the save file system relying on creating and deleting text files, your antivirus or built in system protection may have a problem with opening the files.
+Due to the save file system relying on creating and deleting text files, your antivirus or built in system protection may have a problem with running the .exe or code.
 The code only creates, reads from and deletes a file "ecstats.txt" in the root project directory, so you should NOT place any important files in there under the name "ecstats.txt".
 It is your choice whether you run the game or not.
 Since you most likely do not know me and not trust me, I recommend going through the code and checking the libraries to make sure there's nothing malicious.
